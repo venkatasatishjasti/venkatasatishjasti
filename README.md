@@ -4,7 +4,7 @@ I am a passionate **Geospatial Data Science Specialist** with a strong backgroun
 
 ![Profile views](https://komarev.com/ghpvc/?username=yourusername&style=flat-square)  
 [![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/venkatasatishjasti)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](www.linkedin.com/in/jastivenkatasatish555)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jastivenkatasatish555/)  
 [![Website](https://img.shields.io/badge/Website-Portfolio-orange?style=flat&logo=web)](https://venkatasatishjasti.myportfolio.com/)
 
 ## 🔧 Technologies & Tools
