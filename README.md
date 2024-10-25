@@ -2,23 +2,17 @@
 
 I am a passionate **Geospatial Data Science Specialist** with a strong background in handling raster and vector datasets, and extensive experience in managing large-scale geospatial data projects. My expertise spans across geospatial software tools, programming, and data analysis, making me a versatile professional ready to solve complex spatial challenges.
 
-![Profile views](https://komarev.com/ghpvc/?username=yourusername&style=flat-square)  
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/venkatasatishjasti)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jastivenkatasatish555/)  
-[![Website](https://img.shields.io/badge/Website-Portfolio-orange?style=flat&logo=web)](https://venkatasatishjasti.myportfolio.com/)
+![Profile views](https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=green&label=Profile+Views) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jastivenkatasatish555/)
+[![Website](https://img.shields.io/badge/Website-Portfolio-orange?style=for-the-badge&logo=web)](https://venkatasatishjasti.myportfolio.com/)
+
 
 ## 🔧 Technologies & Tools
 - **Languages & Programming:**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+  <p align="left"> <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white" /> <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> </p>
 
 - **Geospatial Softwares:**
-![ArcGIS](https://img.shields.io/badge/-ArcGIS-34A853?style=flat-square&logo=arcgis&logoColor=white)
-![QGIS](https://img.shields.io/badge/-QGIS-589632?style=flat-square&logo=qgis&logoColor=white)
-![Mapbox](https://img.shields.io/badge/-Mapbox-000000?style=flat-square&logo=mapbox&logoColor=white)
-![CARTO](https://img.shields.io/badge/-CARTO-EA4F34?style=flat-square&logo=carto&logoColor=white)
+  <p align="left"> <img src="https://img.shields.io/badge/-ArcGIS-34A853?style=for-the-badge&logo=arcgis&logoColor=white" /> <img src="https://img.shields.io/badge/-QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" /> <img src="https://img.shields.io/badge/-Mapbox-000000?style=for-the-badge&logo=mapbox&logoColor=white" /> <img src="https://img.shields.io/badge/-CARTO-EA4F34?style=for-the-badge&logo=carto&logoColor=white" /> </p>
 
 - **Geospatial Libraries:**
   - 🌍 **GeoPandas** - Geospatial data analysis in Python
