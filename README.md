@@ -2,7 +2,6 @@
 
 I am a passionate **Geospatial Data Science Specialist** with a strong background in handling raster and vector datasets, and extensive experience in managing large-scale geospatial data projects. My expertise spans across geospatial software tools, programming, and data analysis, making me a versatile professional ready to solve complex spatial challenges.
 
-![Profile views](https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=green&label=Profile+Views) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jastivenkatasatish555/)
 [![Website](https://img.shields.io/badge/Website-Portfolio-orange?style=for-the-badge&logo=web)](https://venkatasatishjasti.myportfolio.com/)
 
