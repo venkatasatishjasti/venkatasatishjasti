@@ -8,12 +8,13 @@ I am a passionate **Geospatial Data Science Specialist** with a strong backgroun
 [![Website](https://img.shields.io/badge/Website-Portfolio-orange?style=flat&logo=web)](https://venkatasatishjasti.myportfolio.com/)
 
 ## 🔧 Technologies & Tools
-
+- **Languages & Programming:**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
+- **Geospatial Softwares:**
 ![ArcGIS](https://img.shields.io/badge/-ArcGIS-34A853?style=flat-square&logo=arcgis&logoColor=white)
 ![QGIS](https://img.shields.io/badge/-QGIS-589632?style=flat-square&logo=qgis&logoColor=white)
 ![Mapbox](https://img.shields.io/badge/-Mapbox-000000?style=flat-square&logo=mapbox&logoColor=white)
