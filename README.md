@@ -41,7 +41,8 @@ I am a passionate **Geospatial Data Science Specialist** with a strong backgroun
 
 Want to see interactive maps in action? Check out my live project demos:
 
-- 🛰️ [**Philadelphia Vehicle Collisions**](https://venkatasatishjasti.github.io/Vehicle-Collisions-in-Philadelphia/): Dynamic map showcasing vehicle collisions in Philadelphia.  
+- 🛰️ [**Philadelphia Vehicle Collisions**](https://venkatasatishjasti.github.io/Vehicle-Collisions-in-Philadelphia/): Dynamic map showcasing vehicle collisions in Philadelphia.
+- 🛰️ [**Philadelphia Building Footprint**](https://venkatasatishjasti.github.io/First-MapBox-Webmap/): Dynamic map showcasing building footprint of Philadelphia.
 
 ## 💡 Current Interests
 
