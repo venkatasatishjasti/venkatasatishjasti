@@ -1,6 +1,6 @@
 # Hi, I'm Venkata Satish Jasti 👋
 
-I am a passionate **Geospatial Data Science Specialist** with a strong background in handling raster and vector datasets, and extensive experience in managing large-scale geospatial data projects. My expertise spans across geospatial software tools, programming, and data analysis, making me a versatile professional ready to solve complex spatial challenges.
+I am a passionate **Geospatial Data Science Specialist** with a strong background in handling lidar, raster and vector datasets, and extensive experience in managing large-scale geospatial data projects. My expertise spans across geospatial software tools, programming, and data analysis, making me a versatile professional ready to solve complex spatial challenges.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jastivenkatasatish555/)
 [![Website](https://img.shields.io/badge/Website-Portfolio-blue?style=for-the-badge&logo=web)](https://venkatasatishjasti.myportfolio.com/)
