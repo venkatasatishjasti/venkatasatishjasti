@@ -37,7 +37,7 @@ Want to see interactive maps in action? Check out my live project demos:
 - 🛰️ [**Pennsylvania Ev Cars Registrations**](https://venkatasatishjasti.github.io/Pennsylvania_Ev_Car_Registartions-/): Dynamic map showcasing Ev cars registrations across Pennsylvania.
 - 🛰️ [**Cleveland_Crime_Mapping**](https://venkatasatishjasti.github.io/Cleveland_Crime_Mapping/): Dynamic map showcasing various crimes in Cleveland, Ohio.
 - 🛰️ [**Philadelphia Vehicle Collisions**](https://venkatasatishjasti.github.io/Vehicle-Collisions-in-Philadelphia/): Dynamic map showcasing vehicle collisions in Philadelphia.
-- 🛰️ [**Philadelphia Building Footprint**](https://venkatasatishjasti.github.io/First-MapBox-Webmap/): Dynamic map showcasing building footprint of Philadelphia.
+- 🛰️ [**Philadelphia Building Footprint**](https://venkatasatishjasti.github.io/Building-Footprint-Philadelphia/): Dynamic map showcasing building footprint of Philadelphia.
 
 ## 💡 Current Interests
 
