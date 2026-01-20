@@ -35,6 +35,7 @@ I am a passionate **Geospatial Data Specialist** with a strong background in han
 
 Want to see interactive maps in action? Check out my live project demos:
 - 🛰️ [**Pennsylvania Ev Cars Registrations**](https://venkatasatishjasti.github.io/Pennsylvania_Ev_Car_Registartions-/): Dynamic map showcasing Ev cars registrations across Pennsylvania.
+- 🛰️ [**Tree Cuttings in WashingtonDC**](https://venkatasatishjasti.github.io/Tree_Canopy_Change_Washington-DC/): Dynamic map showcasing Tree Cuttings in Washigton DC.
 - 🛰️ [**Cleveland_Crime_Mapping**](https://venkatasatishjasti.github.io/Cleveland_Crime_Mapping/): Dynamic map showcasing various crimes in Cleveland, Ohio.
 - 🛰️ [**Philadelphia Vehicle Collisions**](https://venkatasatishjasti.github.io/Vehicle-Collisions-in-Philadelphia/): Dynamic map showcasing vehicle collisions in Philadelphia.
 - 🛰️ [**Philadelphia Building Footprint**](https://venkatasatishjasti.github.io/Building-Footprint-Philadelphia/): Dynamic map showcasing building footprint of Philadelphia.
