@@ -1,37 +1,34 @@
 # Hi, I'm Venkata Satish Jasti 👋
 
-I am a passionate **Geospatial Data Specialist** with a strong background in handling lidar, raster and vector datasets, and extensive experience in managing large-scale geospatial data projects. My expertise spans across geospatial software tools, programming, and data analysis, making me a versatile professional ready to solve complex spatial challenges.
+I am an **AI Engineer & Geospatial Data Specialist** specializing in building **autonomous AI agent workflows, Multi-Agent systems, RAG pipelines, and scalable spatial data architectures**. 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jastivenkatasatish555/)
-[![Website](https://img.shields.io/badge/Website-Portfolio-blue?style=for-the-badge&logo=web)](https://venkatasatishjasti.myportfolio.com/)
+Over the past year, my focus has pivoted heavily toward developing LLM-powered applications, combining cutting-edge AI frameworks with large-scale data systems to automate complex analytical workflows.
 
+---
 
-## 🔧 Technologies & Tools
-- **Languages & Programming:**
-  <p align="left"> <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white" /> <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> </p>
+### 🚀 What I Do
 
-- **Geospatial Softwares:**
-  <p align="left"> <img src="https://img.shields.io/badge/-ArcGIS-34A853?style=for-the-badge&logo=arcgis&logoColor=white" /> <img src="https://img.shields.io/badge/-QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" /> <img src="https://img.shields.io/badge/-Mapbox-000000?style=for-the-badge&logo=mapbox&logoColor=white" /> <img src="https://img.shields.io/badge/-CARTO-EA4F34?style=for-the-badge&logo=carto&logoColor=white" /> </p>
+* 🤖 **AI Agents & Multi-Agent Frameworks:** Designing multi-agent architectures using **LangGraph** and **CrewAI** for automated reasoning, task orchestration, and tool execution.
+* 🧠 **RAG & Knowledge Systems:** Building production-grade Retrieval-Augmented Generation (RAG) pipelines utilizing advanced vector indexing, hybrid search, and local LLM orchestration (**Ollama**).
+* 🗺️ **Geospatial & Spatial AI:** Processing and analyzing large-scale LiDAR, raster, and vector datasets, and integrating AI workflows with spatial analytics.
+* ⚡ **Automation & Infrastructure:** Automating complex ETL/data workflows using Python, SQL, and cloud services for scalable deployments.
 
-- **Geospatial Libraries:**
-  - 🌍 **GeoPandas** - Geospatial data analysis in Python
-  - 🗺️ **Rasterio** - Read and write raster datasets
-  - ✏️ **Shapely** - Geometric operations
-  - 🗺️ **Folium** - Interactive maps
-  - 🛰️ **Leaflet** - Web mapping
+---
 
-- **Cloud Platforms:**
-  - ☁️ **AWS** - EC2, S3, Lambda for scalable geospatial solutions
+### 🛠️ Tech Stack & Tooling
 
-## 🌍 What I Do
+| Domain | Technologies & Frameworks |
+| :--- | :--- |
+| **AI Frameworks & Orchestration** | LangChain, LangGraph, CrewAI, AzureAI, LlamaIndex, Ollama |
+| **Vector DBs & Embeddings** | Qdrant, Pinecone, ChromaDB, FAISS |
+| **Languages & Scripting** | Python, SQL, R, Bash |
+| **Geospatial Libraries & Tools** | GeoPandas, Rasterio, Shapely, Folium, Leaflet, QGIS, GDAL |
+| **Cloud & DevOps** | AWS (EC2, S3, Lambda), Docker, Git, CI/CD |
 
-- **Geospatial Analysis:** Specializing in working with raster and vector data to create insightful visualizations, conduct spatial analyses, and support decision-making.
-  
-- **Project Development:** Working on projects ranging from urban sustainability to environmental management using cutting-edge geospatial technologies.
+---
 
-- **Programming & Automation:** Automating geospatial workflows with Python, R, and SQL to handle large datasets and integrate with web applications.
+### 🗺️ Featured Interactive Geospatial Demos
 
-## 🗺️ Interactive Maps
 
 Want to see interactive maps in action? Check out my live project demos:
 - 🛰️ [**Pennsylvania Ev Cars Registrations**](https://venkatasatishjasti.github.io/Pennsylvania_Ev_Car_Registartions-/): Dynamic map showcasing Ev cars registrations across Pennsylvania.
@@ -40,10 +37,14 @@ Want to see interactive maps in action? Check out my live project demos:
 - 🛰️ [**Philadelphia Vehicle Collisions**](https://venkatasatishjasti.github.io/Vehicle-Collisions-in-Philadelphia/): Dynamic map showcasing vehicle collisions in Philadelphia.
 - 🛰️ [**Philadelphia Building Footprint**](https://venkatasatishjasti.github.io/Building-Footprint-Philadelphia/): Dynamic map showcasing building footprint of Philadelphia.
 
-## 💡 Current Interests
+---
 
-I’m focused on developing geospatial applications that integrate real-time data, machine learning, and spatial analytics to address environmental and urban challenges. I'm also exploring big data in understanding human-environment interactions and building interactive geospatial dashboards.
+### 💡 Current Focus & Interests
+
+* 🤖 Architecting complex, stateful **Multi-Agent workflows** with deterministic graph routing using **LangGraph**.
+* 🔍 Fine-tuning and optimizing **RAG systems** for high-precision retrieval and low-latency token generation.
+* 🌐 Bridging **Geospatial Analytics** with **LLMs & Spatial RAG** to query complex geographic datasets using natural language.
 
 ---
 
-*“Translating data into actionable geospatial insights.”*
+> *"Bridging Autonomous AI Agents with Spatial Intelligence to turn complex data into actionable insights."*
